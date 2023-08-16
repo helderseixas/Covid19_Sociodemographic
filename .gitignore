@@ -1,1 +1,4 @@
 /.idea/
+/covid/data/output/df_sim_covid_deaths_national_general.csv
+/covid/data/output/df_covid_deaths_municipal_residence.csv
+/covid/data/output/df_sim_covid_deaths_municipal_timeseries.csv
