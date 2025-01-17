@@ -2,3 +2,8 @@
 /covid/data/output/df_sim_covid_deaths_national_general.csv
 /covid/data/output/df_covid_deaths_municipal_residence.csv
 /covid/data/output/df_sim_covid_deaths_municipal_timeseries.csv
+/data/input/Area_efetivamente_domiciliada_e_densidade_ajustada_dos_Setores_Censitarios.ods
+/data/input/df_sim_municipal.csv
+/data/input/df_sociodemographic.csv
+/data/input/df_vaccination.csv
+/data/input/Leia_me_Area_efetivamente_ocupada.pdf

@@ -1,6 +1,6 @@
-# Sociodemographic Factors Associated with Covid-19 Mortality in Brazilian Municipalities Across Three Years: an Approach Supported by Gaussian Mixture Clustering
+# Sociodemographic, Vaccination, and Political Factors Associated with COVID-19 Mortality in Brazilian Municipalities across Three Years: an Approach Supported by Gaussian Mixture Clustering
 
-Welcome to the repository for the code and data of the paper "Sociodemographic Factors Associated with Covid-19 Mortality in Brazilian Municipalities Across Three Years: an Approach Supported by Gaussian Mixture Clustering."
+Welcome to the repository for the code and data of the paper "Sociodemographic, Vaccination, and Political Factors Associated with COVID-19 Mortality in Brazilian Municipalities across Three Years: an Approach Supported by Gaussian Mixture Clustering."
 
 ## Reproducibility
 
