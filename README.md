@@ -8,8 +8,8 @@ To reproduce the results presented in our paper, please follow the steps outline
 
 1. **Prepare Datasets:**
 
-   - **Covid-19 Data:**
-     - Download Covid-19 data (https://mega.nz/file/M8ECERAa#zl_OdBVAaIfFUcNR7LiY13OCoI2Zsi-Gq-tU0e1pmxA).
+   - **Data:**
+     - Download the data (https://mega.nz/file/Fk1EiLKK#o5O1WonelvGgae9ha5sOn4SdTqMDzFm25NINJ-tOz2U).
      - Extract and place the downloaded files in the directory `data/input`.
 
 
